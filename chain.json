@@ -1,0 +1,16 @@
+{
+  "id": 42161,
+  "name": "arbitrum",
+  "rpc_url": "https://arbitrum.llamarpc.com",
+  "explorer_url": "https://arbiscan.io/",
+  "tokens": {
+    "eth": {
+      "addr": "",
+      "decimals": 18
+    },
+    "usdt": {
+      "addr": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+      "decimals": 6
+    }
+  }
+}
